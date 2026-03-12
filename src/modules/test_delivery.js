@@ -1,1 +1,0 @@
-// Content of test_delivery.js
