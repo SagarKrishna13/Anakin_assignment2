@@ -1,1 +1,0 @@
-// Content of add_contacts.js
