@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment variables (contains API keys)
+.env
+
+# Runtime state files (generated during execution)
+followup_state.json
+hubspot_notes.json
+
+# Test and simulation scripts (not needed for production)
+simulate_all.js
+test_delivery.js
+verify_notes.js
